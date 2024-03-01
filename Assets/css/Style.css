@@ -1,0 +1,22 @@
+body{
+    font-family: "Raleway", sans-serif;
+    background-color: black;
+    color: #fff;
+}
+h1{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    font-weight: 400;
+}
+h2{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    font-weight: 400; 
+}
+footer i{
+    font-size: 35px;
+    padding-block: 45px;
+   text-align: justify;
+}
